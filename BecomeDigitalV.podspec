@@ -8,7 +8,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BecomeDigitalV"
-  spec.version      = "1.8"
+  spec.version      = "1.9"
   spec.summary      = "App Become para validación biométrica de identidad en el sistema iOS.."
 
   # This description is used to generate tags and improve search results.
@@ -17,13 +17,13 @@ Pod::Spec.new do |spec|
   App Become para validación biométrica de identidad en el sistema iOS.
                    DESC
 
-  spec.homepage     = "https://github.com/Becomedigital/become_IOS_SDK"
+  spec.homepage     = "https://github.com/ZYTRUST/BecomeDigitalV"
   spec.license      = { :type => "Copyright", :text => "Copyright by BecomeDigital" }
   spec.author             = "Becomedigital"
 
   spec.platform     = :ios, "12.0"
 
-  spec.source       = { :git => "https://github.com/Becomedigital/become_IOS_SDK.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/ZYTRUST/BecomeDigitalV.git", :tag => "#{spec.version}" }
 
   spec.requires_arc = true
 
