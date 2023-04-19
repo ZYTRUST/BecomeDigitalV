@@ -8,7 +8,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BecomeDigitalV"
-  spec.version      = "3.1"
+  spec.version      = "3.2"
   spec.summary      = "App Become para validación biométrica de identidad en el sistema iOS.."
 
   # This description is used to generate tags and improve search results.
